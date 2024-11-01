@@ -1,0 +1,301 @@
+
+.melibu-shl-docu {
+
+    overflow: hidden;
+
+    display: flex;
+    align-items: center;
+    justify-content: left;
+
+    position: relative; 
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 11;
+
+    width: 100%;
+    height: 420px;
+
+    margin: 10px auto;	
+
+    background-color: #fff;
+
+    .box-shadow-double(0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24));
+    .box-sizing();
+
+    &-present {
+
+        background: #f4f4f4;
+        font: 13px "Courier 10 Pitch",Courier,monospace;
+        line-height: 1.5;
+        margin-bottom: 1.625em;
+        padding: .75em 1.625em;
+    }
+
+    &-icon {
+
+        display: block;
+        font-size: 1rem;
+        width: 30px;
+
+        .transition(all .2s ease-out);
+
+        .dashicons {
+
+            font-size: 2.3rem;
+        }
+    }
+
+    &-active {
+
+        fill: #E74C3C;
+    }
+
+    &-big {
+
+        width: 64px;
+        height: 64px;
+        font-size: 3rem;
+    }
+
+    &-left {
+
+        position: relative;
+        display: block;
+        width: 40%;
+
+        .box-sizing();
+
+        ul {
+
+            width: 100%;
+
+            li {
+
+                display: flex;
+
+                padding: 10px;
+
+                line-height: 33px;
+                color: rgba(0,0,0,.5);
+                font-weight: 500;
+                font-size: .7rem;
+                cursor: pointer;
+
+                .transition(all 1s ease-out);
+
+                &:hover {
+
+                    color: rgba(0,0,0,1);
+
+                    .transition(all .2s ease-in-out);
+                }
+
+                &:hover > .melibu-shl-docu-icon {
+
+                    color: rgba(0,0,0,1);
+                }
+            }
+
+            li.melibu-shl-docu-active {
+
+                color: @mb;
+                .transition(all 1s ease);
+
+                &:hover > .melibu-shl-docu-icon {
+
+                    color: @mb;
+                }
+            }
+        }
+    }
+
+    .border {
+
+        width: 5px;
+        height: 410px;
+        background-color: rgba(0,0,0,.2);
+
+        .box-sizing();
+
+        .line.one {
+
+            width: 5px;
+            height: 54px;
+            margin-top: 60px;
+
+            background-color: @mb;
+
+            .transition(all .4s ease-in-out);
+        }
+
+        .line.two {
+
+            width: 5px;
+            height: 54px;
+            background-color: #E74C3C;
+            margin-top: 119px;
+
+            background-color: @mb;
+
+            .transition(all .4s ease-in-out);
+        }
+
+        .line.three {
+
+            width: 5px;
+            height: 54px;
+            margin-top: 178px;
+
+            background-color: @mb;
+
+            .transition(all .4s ease-in-out);
+        }
+
+        .line.four {
+
+            width: 5px;
+            height: 54px;
+            margin-top: 237px;
+
+            background-color: @mb;
+
+            .transition(all .4s ease-in-out);
+        }
+
+        .line.five {
+
+            width: 5px;
+            height: 54px;
+            margin-top: 296px;
+
+            background-color: @mb;
+
+            .transition(all .4s ease-in-out);
+        }
+
+        .line.six {
+
+            width: 5px;
+            height: 54px;
+            margin-top: 296px;
+
+            background-color: @mb;
+
+            .transition(all .4s ease-in-out);
+        }
+
+        .line.seven {
+
+            width: 5px;
+            height: 54px;
+            margin-top: 356px;
+
+            background-color: @mb;
+
+            .transition(all .4s ease-in-out);
+        }
+    }
+
+    .right-side {
+
+        overflow-x: auto;
+        overflow-y: auto;
+        position: relative;
+
+        display: block;
+        width: 75%;
+        height: 100%;
+
+        .box-sizing();
+
+        ul {
+
+            width: 100%;
+            list-style: square;
+            padding-left: 20px;
+        }
+
+        .first, 
+        .second, 
+        .third, 
+        .fourth,
+        .fifth,
+        .sixth,
+        .seventh {
+
+            position: absolute;
+            top: -2000px;
+            padding: 3em;
+
+            .opacity(0);
+            .transition(all .6s ease-in-out);
+
+            h1 {
+
+                font-weight: 800;
+                color: #000;	
+            }
+
+            p {
+
+                color: #000;
+                font-weight: 500;
+            }
+
+            img {
+
+                width: 100%;
+            }
+
+            ol {
+
+                padding-left: 30px;
+                padding-right: 30px;
+                margin: 0;
+            }
+        }
+
+        .first.active, 
+        .second.active, 
+        .third.active, 
+        .fourth.active,
+        .fifth.active,
+        .sixth.active,
+        .seventh.active {
+
+            top: 0;
+
+            .opacity(1);
+            .transition(all .6s ease-in-out);
+        }
+    }
+}
+
+@media only screen and(min-width: 768px) {
+
+    .melibu-shl-docu {
+
+        &-icon {
+
+            font-size: 2rem;
+            margin-right: 10px;
+        }
+
+        &-left {
+
+            width: 24%;
+
+            ul {
+
+                li {
+
+                    padding-left: 20px;
+                    padding-top: 10px;
+                    padding-bottom: 10px;
+                }
+            }
+        }
+    }
+}

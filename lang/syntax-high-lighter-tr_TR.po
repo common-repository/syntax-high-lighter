@@ -1,0 +1,1193 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MeliBu WP Syntax High Lighter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-29 02:09+0200\n"
+"PO-Revision-Date: 2016-09-29 02:09+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: de_DE\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../classes/class.MelibuBackendMenus.php:58 ../html/welcome.php:57
+msgid "CSS / Color"
+msgstr "CSS / Renk"
+
+#: ../classes/class.MelibuBackendMenus.php:71 ../html/settings.php:200
+#: ../html/settings.php:210
+msgid "RegExp"
+msgstr "RegExp"
+
+#: ../classes/class.MelibuBackendMenus.php:85 ../html/welcome.php:69
+#: ../html/welcome.php:121
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: ../classes/class.MelibuBackendMenus.php:98
+msgid "About"
+msgstr "Hakkında"
+
+#: ../classes/class.MelibuBackendMetaBox.php:62
+msgid "MeliBu WP Syntax High Lighter"
+msgstr ""
+
+#: ../classes/class.MelibuBackendMetaBox.php:83
+msgid ""
+"When you write code, it is best to disable the Visual text area since it "
+"stores no indentations and you lose all indentations when you save area in "
+"the visual."
+msgstr ""
+"Kod yazarken hiçbir girintileri kaybetmek  için, Visual metin alanını devre "
+"dışı bırakmak en iyisidir."
+
+#: ../classes/class.MelibuBackendMetaBox.php:98
+msgid "Disable for current post"
+msgstr "Geçerli yazı için devre dışı"
+
+#: ../classes/class.MelibuBackendMetaBox.php:114
+msgid "Disable for all posts of this type"
+msgstr "Bu türdeki tüm mesajlar için devre dışı bırak"
+
+#: ../classes/class.MelibuSyntax.php:75
+msgid "Powerd by &copy;"
+msgstr "Tarafından desteklenmektedir"
+
+#: ../html/about.php:20
+msgid "Welcome to"
+msgstr "Hoşgeldiniz"
+
+#: ../html/about.php:22
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../html/about.php:23 ../html/regex.php:177 ../html/settings.php:281
+#: ../html/syntax.php:94 ../html/welcome.php:29
+msgid "Version"
+msgstr "Versiyon"
+
+#: ../html/about.php:33
+msgid "Welcome"
+msgstr "Karşılama"
+
+#: ../html/about.php:39 ../html/about.php:90
+msgid "Functions"
+msgstr "Fonksiyonlar"
+
+#: ../html/about.php:45 ../html/about.php:134 ../html/settings.php:238
+msgid "Support"
+msgstr "Destek"
+
+#: ../html/about.php:51
+msgid "Development"
+msgstr "Gelişme"
+
+#: ../html/about.php:57
+msgid "Translation"
+msgstr "Çeviri"
+
+#: ../html/about.php:63 ../html/about.php:223
+msgid "Donate"
+msgstr "Bağışlamak"
+
+#: ../html/about.php:79
+msgid "More Professional"
+msgstr "Daha Profesyonel"
+
+#: ../html/about.php:79
+msgid "Themes"
+msgstr "Temalar"
+
+#: ../html/about.php:79
+msgid "and"
+msgstr "ve"
+
+#: ../html/about.php:79
+msgid "Plugins"
+msgstr "Eklentiler"
+
+#: ../html/about.php:93
+msgid "Functionality"
+msgstr "Işlevsellik"
+
+#: ../html/about.php:95
+msgid "Better recognizable code"
+msgstr "Daha tanınabilir kod"
+
+#: ../html/about.php:96
+msgid "Raises code optimally forth"
+msgstr "Optimal ileri kodu Artırdı"
+
+#: ../html/about.php:97
+msgid "Special Highlightings"
+msgstr "Özel Highlightings"
+
+#: ../html/about.php:98
+msgid "WP Codex Highlighting"
+msgstr "WP Kodeksi Renklendirme"
+
+#: ../html/about.php:99
+msgid "Multi code Highlighting"
+msgstr "Çok kod vurgulama"
+
+#: ../html/about.php:100
+msgid "Code output field"
+msgstr "Kod çıkış alanı"
+
+#: ../html/about.php:101
+msgid "Codeing in WP Editor with short codes"
+msgstr "Kısa kodları ile WP Düzenleyicisi'nde Kodlama"
+
+#: ../html/about.php:102
+msgid "Clickable links"
+msgstr "Tıklanabilir linkler"
+
+#: ../html/about.php:103
+msgid "Ruler"
+msgstr "Cetvel"
+
+#: ../html/about.php:104
+msgid "Fully modifiable CSS"
+msgstr "Tamamen değiştirilebilir CSS"
+
+#: ../html/about.php:105
+msgid "Prevents number copy"
+msgstr "Numara kopyalama önler"
+
+#: ../html/about.php:106
+msgid "Own Regular Expressions"
+msgstr "Kendi Düzenli İfadeler"
+
+#: ../html/about.php:107
+msgid "Prepare everything for a decent coding"
+msgstr "Iyi bir kodlama için her şeyi hazırlayın"
+
+#: ../html/about.php:111 ../html/settings.php:68 ../syntax-high-lighter.php:73
+msgid "Options"
+msgstr "Seçenekler"
+
+#: ../html/about.php:113
+msgid "Full CSS access"
+msgstr "Tam CSS erişim"
+
+#: ../html/about.php:114
+msgid "Custom CSS"
+msgstr "Özel CSS"
+
+#: ../html/about.php:115
+msgid "Custom Colors"
+msgstr "Özel Renkler"
+
+#: ../html/about.php:116
+msgid "Custom RegExp"
+msgstr "Özel RegExp"
+
+#: ../html/about.php:117
+msgid "Optional disable Visual WP Editor"
+msgstr "İsteğe bağlı devre dışı Görsel WP Editor"
+
+#: ../html/about.php:118
+msgid "Optional Toolbar"
+msgstr "Opsiyonel Araç Çubuğu"
+
+#: ../html/about.php:119
+msgid "Optional Linenumbers"
+msgstr "İsteğe bağlı Satır Numaraları"
+
+#: ../html/about.php:120
+msgid "Optional clickable links"
+msgstr "İsteğe bağlı tıklanabilir linkler"
+
+#: ../html/about.php:121
+msgid "Optional copyright"
+msgstr "İsteğe bağlı telif hakkı"
+
+#: ../html/about.php:125
+msgid "Extras"
+msgstr "Ekstralar"
+
+#: ../html/about.php:138
+msgid "In like please give"
+msgstr "Beğendiğnizde lütfen"
+
+#: ../html/about.php:141
+msgid "WordPress Rate"
+msgstr "WordPress  Oran"
+
+#: ../html/about.php:144
+msgid "Google+ plus"
+msgstr "Google+ artı"
+
+#: ../html/about.php:147
+msgid "Facebook Like"
+msgstr "Facebook beğen"
+
+#: ../html/about.php:152
+msgid ""
+"Feel free and post your question, suggestion, idea or criticism. We love it!"
+msgstr "Çekinmeyin ve soru Öneri, Fikir ya da Eleştiri sonrası. Onu seviyoruz!"
+
+#: ../html/about.php:154
+msgid "For Plugin English Support"
+msgstr "Eklenti İngilizce Desteği"
+
+#: ../html/about.php:155
+msgid "Support EN"
+msgstr "Destek EN"
+
+#: ../html/about.php:157
+msgid "For Plugin German Support"
+msgstr "Eklenti Alman Desteği"
+
+#: ../html/about.php:158
+msgid "Support DE"
+msgstr "Destek DE"
+
+#: ../html/about.php:160
+msgid "For Plugin Turkey Support"
+msgstr "Eklenti Türkiye Destek"
+
+#: ../html/about.php:161
+msgid "Support TR"
+msgstr "Destek TR"
+
+#: ../html/about.php:170
+msgid "Development "
+msgstr "Gelişme"
+
+#: ../html/about.php:174
+msgid "Author"
+msgstr "Yazar"
+
+#: ../html/about.php:179
+msgid "Founder and Project Manager"
+msgstr "Kurucu ve Proje Yöneticisi"
+
+#: ../html/about.php:185
+msgid "Contributors"
+msgstr "Katkıda"
+
+#: ../html/about.php:190
+msgid "Economic Computer Science"
+msgstr "Ekonomik Bilgisayar Bilimleri"
+
+#: ../html/about.php:196
+msgid "Marketing"
+msgstr "Pazarlama"
+
+#: ../html/about.php:203
+msgid "Developer"
+msgstr "Geliştirici"
+
+#: ../html/about.php:214
+msgid "Thanks all Translaters"
+msgstr "Teşekkürler tüm Çevirmenler"
+
+#: ../html/about.php:216
+msgid "Translate this Plugin"
+msgstr "Bu Eklenti Çevirin"
+
+#: ../html/about.php:216
+msgid "Translate"
+msgstr "Çevirmek"
+
+#: ../html/about.php:225
+msgid "Development is fueled by your praise and feedback"
+msgstr "Kalkınma için övgü ve geribildirim tarafından yakıt"
+
+#: ../html/about.php:229
+msgid ""
+"In how you can support us so that we can further develop this plugin "
+"regularly, it may not always be financially, so you will give us feedback or "
+"recommend us, please give us a review, Liken our Facebook page or sponsor "
+"us, so that we further useful free plugins can develop."
+msgstr ""
+"Biz daha fazla düzenli olarak bu eklentiyi geliştirebilmek için ve böylece "
+"bize destek nasıl olabilirsiniz, her zaman, maddi olmayabilir, bize geri "
+"bildirimde ya da bizi tavsiyede, bize bir daha gözden geçirme Facebook "
+"sayfamızı benzetmek veya bizimle sponsor olmak yardımçı olabilirsiniz, bizde "
+"daha yararlı ücretsiz eklentileri gelişebilelim. "
+
+#: ../html/about.php:232
+msgid ""
+"You see, it is much more possible if you want to support something, thanks "
+"to all the Support Us."
+msgstr ""
+"Gördüğnüz gibi daha fazlasi mümkün, birseyi desteklemek istediğiniz zaman, "
+"tüm destekleyenlere Teşekkürler."
+
+#: ../html/about.php:238
+msgid "Now simply, quickly and safely pay online - with PayPal."
+msgstr ""
+"PayPal ile - Şimdi basit, hızlı ve güvenli bir şekilde internet üzerinden "
+"öderler."
+
+#: ../html/about.php:242
+msgid "LOOK FOR SPONSOR !!!"
+msgstr "SPONSOR ARIYORUZ !!!"
+
+#: ../html/about.php:245
+msgid "Your Melibu Team"
+msgstr "Sizin Melibu Takımı"
+
+#: ../html/other/syntax_settings_form.php:20 ../html/settings.php:74
+#: ../html/settings.php:156 ../html/settings.php:205 ../html/settings.php:243
+#: ../html/syntax.php:70 ../html/tpl/syntax_colors.php:24
+msgid "Description"
+msgstr "Tanım"
+
+#: ../html/other/syntax_settings_form.php:21 ../html/settings.php:157
+#: ../html/settings.php:206 ../html/settings.php:244
+#: ../html/tpl/syntax_colors.php:25
+msgid "Basic"
+msgstr "Temel"
+
+#: ../html/other/syntax_settings_form.php:25 ../html/settings.php:248
+msgid "Support us"
+msgstr "Bizi destekle"
+
+#: ../html/other/syntax_settings_form.php:26 ../html/settings.php:249
+msgid "Here you can show/hide"
+msgstr "Burada gösterebilir veya gizleiyebilirsiniz"
+
+#: ../html/other/syntax_settings_form.php:27 ../html/settings.php:250
+msgid "Please activate this to help us, for share this plugin"
+msgstr "Hisse bu eklenti için, bu bize yardımcı olmak için aktive edin"
+
+#: ../html/other/syntax_settings_form.php:39
+msgid "Turn On"
+msgstr "Aç"
+
+#: ../html/other/syntax_settings_form.php:43 ../html/regex.php:75
+#: ../html/regex.php:164 ../html/settings.php:146 ../html/settings.php:182
+#: ../html/settings.php:230 ../html/settings.php:264
+#: ../html/tpl/syntax_colors.php:20 ../html/tpl/syntax_colors.php:63
+#: ../html/tpl/syntax_css.php:58 ../html/tpl/syntax_css.php:79
+msgid "Save"
+msgstr "Kaydet"
+
+#: ../html/regex.php:43 ../html/settings.php:39 ../html/syntax.php:39
+#: ../html/welcome.php:23
+msgid "Professional Themes and Plugins for WordPress"
+msgstr "WordPress için profesyonel Temalar ve Eklentiler"
+
+#: ../html/regex.php:50 ../html/settings.php:48 ../html/syntax.php:48
+msgid "Settings saved!"
+msgstr "Ayarlar kaydedildi!"
+
+#: ../html/regex.php:63
+msgid "Syntax RegExp"
+msgstr "Sözdizimi RegExp"
+
+#: ../html/regex.php:68
+msgid "Add SyntaxHighlighter RegEx"
+msgstr "SyntaxHighlighter RegEx ekle"
+
+#: ../html/regex.php:70
+msgid ""
+"Include the MeliBu RegExp yours added or disable in the settings MeliBu "
+"RegExp and add your own in order to format the code itself"
+msgstr ""
+"MeliBu RegExp senin eklendi veya ayarlar MeliBu RegExp devre dışı bırakmak "
+"ve kod kendisi biçimlendirmek için kendi ekleyin ekleyin"
+
+#: ../html/regex.php:71
+msgid "Put here new RegEx and format the code with a comma separated"
+msgstr "Ayrılmış bir virgül kod burada yeni RegEx koyun ve biçimlendirmek"
+
+#: ../html/regex.php:79 ../html/regex.php:91
+msgid "Keys"
+msgstr "Anahtarlar"
+
+#: ../html/regex.php:80 ../html/regex.php:115
+msgid "Values"
+msgstr "Değerler"
+
+#: ../html/regex.php:81
+msgid "Code"
+msgstr "kod"
+
+#: ../html/regex.php:146
+msgid "Test your RegExp here..."
+msgstr "Burada RegEx test ..."
+
+#: ../html/regex.php:174 ../html/settings.php:278 ../html/syntax.php:91
+msgid "Thank you for your confidence in"
+msgstr "Olan güveniniz için teşekkür ederiz"
+
+#: ../html/settings.php:63
+msgid "Syntax Settings"
+msgstr "Sözdizimi Ayarları"
+
+#: ../html/settings.php:69
+msgid "You can activate/deactivate MeliBu WP Syntax High Lighter options"
+msgstr "MeliBu WP Syntax High Lighter seçenekleri açıp / kapatabilirsiniz"
+
+#: ../html/settings.php:75 ../html/settings.php:158
+msgid "Example"
+msgstr "Örnek"
+
+#: ../html/settings.php:86
+msgid "With Toolbar"
+msgstr "Araç Çubuğu ile"
+
+#: ../html/settings.php:100
+msgid "With line numbers"
+msgstr "Satır numaraları ile"
+
+#: ../html/settings.php:114
+msgid "With clickable urls"
+msgstr "Tıklanabilir URL'ler ile"
+
+#: ../html/settings.php:128
+msgid "With ruler"
+msgstr "Cetvelle"
+
+#: ../html/settings.php:151
+msgid "Colors"
+msgstr ""
+
+#: ../html/settings.php:162
+msgid "Colors Activate"
+msgstr "Renkler etkinleştirildi"
+
+#: ../html/settings.php:163
+msgid ""
+"Here you can change the colors if you are not familiar with the CSS. You can "
+"influence the color and overwrite the CSS option. (Limited)"
+msgstr ""
+"CSS ile aşina değilseniz Burada renklerini değiştirebilirsiniz. Siz rengini "
+"etkileyebilir ve CSS seçeneği üzerine yazabilirsiniz. (Sınırlı)"
+
+#: ../html/settings.php:178 ../html/settings.php:226 ../html/settings.php:260
+msgid "Deactivate / Activate"
+msgstr "Devre Dışı Bırak / Etkinleştir"
+
+#: ../html/settings.php:211
+msgid ""
+"Here you can deactivate the MeliBu RegExp and write totally from scratch "
+"your own RegExp"
+msgstr ""
+"Burada MeliBu RegExp devre dışı bırakabilirsiniz ve sıfırdan kendi RegExp "
+"tamamen yazma"
+
+#: ../html/syntax.php:63
+msgid "Syntax CSS"
+msgstr "Sözdizimi CSS"
+
+#: ../html/syntax.php:71
+msgid "Outputs"
+msgstr "Çıkışlar"
+
+#: ../html/syntax.php:75
+msgid "Standard SyntaxHighlighter CSS"
+msgstr "Standart SyntaxHighlighter CSS"
+
+#: ../html/syntax.php:76
+msgid ""
+"The overriding this CSS has effect on all the highlights. If you want to "
+"restore the default value, erase all content and then save the Standard "
+"version is restored."
+msgstr ""
+"Bu CSS tüm noktaların üzerinde etkisi vardır. Varsayılan değer geri yüklemek "
+"isterseniz, tüm içeriği silin ve kaydedin daha sonra Standart sürüm geri "
+"döner."
+
+#: ../html/tpl/syntax_colors.php:16
+msgid "Set Colors"
+msgstr "Renkleri kur"
+
+#: ../html/tpl/syntax_css.php:51
+msgid "Colors is activated"
+msgstr "Renkler etkin"
+
+#: ../html/tpl/syntax_css.php:53
+msgid "Default CSS is active, modify and save to activate your modified css"
+msgstr ""
+"Standart CSS aktif, değiştirmek ve modifiye css etkinleştirmek için kaydet"
+
+#: ../html/tpl/syntax_css.php:64
+msgid "Your CSS is now active"
+msgstr "Sizin CSS artık etkin"
+
+#: ../html/welcome.php:39
+msgid "This documentation should help you."
+msgstr "Bu belge size yardımcı olacaktır."
+
+#: ../html/welcome.php:51
+msgid "Start"
+msgstr "Başlama"
+
+#: ../html/welcome.php:75 ../html/welcome.php:133
+msgid "Short codes"
+msgstr "Kısa kodları"
+
+#: ../html/welcome.php:90
+msgid "To use Melibu WP Syntax High Lighter properly"
+msgstr "Düzgün Çakmak Melibu WP Syntax Lighter kullanmak için"
+
+#: ../html/welcome.php:91
+msgid "Thank you that you use MeliBu WP Syntax High Lighter"
+msgstr "Eğer MeliBu WP Syntax High Lighter kullanmanız teşekkür ederim"
+
+#: ../html/welcome.php:99
+msgid "Let's start now with the CSS"
+msgstr "CSS ile şimdi başlayalım"
+
+#: ../html/welcome.php:100
+msgid ""
+"You were asked two options for disposal, if you are familiar with CSS you "
+"can revise and save the absolute CSS"
+msgstr ""
+"Eğer CSS aşina iseniz revize ve mutlak CSS kaydedebilirsiniz bertarafı için "
+"iki seçenek soruldu"
+
+#: ../html/welcome.php:101 ../html/welcome.php:112
+msgid "Try it"
+msgstr "Dene"
+
+#: ../html/welcome.php:102
+msgid ""
+"If you are not familiar with CSS, you have the possibility to change their "
+"style to just color code and thus must enter with only a color code to "
+"influence the colors"
+msgstr ""
+"CSS ile aşina değilseniz, sadece renk koduna kendi stilini değiştirmek "
+"olanağına sahip ve bu sayede renkler etkilemek için sadece bir renk koduyla "
+"girmelisiniz"
+
+#: ../html/welcome.php:103 ../html/welcome.php:114 ../html/welcome.php:126
+msgid "Set it"
+msgstr "Ayarla"
+
+#: ../html/welcome.php:110
+msgid "Regular Expressions"
+msgstr "Düzenli ifadeler"
+
+#: ../html/welcome.php:111
+msgid ""
+"For advanced we have the regular expressions, which you can add to MeliBu "
+"RegExp"
+msgstr "Gelişmiş için biz MeliBu RegExp ekleyebileceğiniz düzenli ifadeler var"
+
+#: ../html/welcome.php:113
+msgid ""
+"Or complete the expressions rewrite in the disable MeliBu RegExp in the "
+"settings"
+msgstr ""
+"Veya ifadeler ayarlarında devre dışı Malibu RegEx içinde yeniden tamamlamak"
+
+#: ../html/welcome.php:122
+msgid "For example"
+msgstr "Örneğin"
+
+#: ../html/welcome.php:123 ../html/welcome.php:124
+msgid "Activate linenumbers"
+msgstr "Satır numaralarını etkinleştirin"
+
+#: ../html/welcome.php:125
+msgid "You can make and optimize with many various settings"
+msgstr "Yapmak ve birçok çeşitli ayarlar ile optimize edebilirsiniz"
+
+#: ../html/welcome.php:134
+msgid "Use the short code in your WP Editor for set your highlight"
+msgstr "Vurgulamanız set için WP Düzenleyicisi'nde Kısa kod kullanın"
+
+#: ../html/welcome.php:140
+msgid "This short code raises specifically HTML produced"
+msgstr "Bu shortcode özellikle HTML üretilen yükseltir"
+
+#: ../html/welcome.php:144
+msgid "This short code raises specifically CSS produced"
+msgstr "Bu shortcode özellikle CSS üretilen yükseltir"
+
+#: ../html/welcome.php:148
+msgid "This short code raises specifically LESS produced"
+msgstr "Bu shortcode özellikle LESS üretilen yükseltir"
+
+#: ../html/welcome.php:152
+msgid "This short code raises specifically SASS produced"
+msgstr "Bu shortcode özellikle SASS üretilen yükseltir"
+
+#: ../html/welcome.php:156
+msgid "This short code raises specifically JS produced"
+msgstr "Bu shortcode özellikle JS üretilen yükseltir"
+
+#: ../html/welcome.php:160
+msgid "This short code raises specifically PHP produced"
+msgstr "Bu shortcode özellikle PHP üretilen yükseltir"
+
+#: ../html/welcome.php:164
+msgid "This short code raises specifically MYSQL produced"
+msgstr "Bu shortcode özellikle MYSQL üretilen yükseltir"
+
+#: ../html/welcome.php:168
+msgid "This short code raises specifically JAVA produced"
+msgstr "Bu shortcode özellikle JAVA üretilen yükseltir"
+
+#: ../html/welcome.php:172
+msgid "This short code raises specifically RUBY produced"
+msgstr "Bu shortcode özellikle RUBY üretilen yükseltir"
+
+#: ../html/welcome.php:176
+msgid "This short code raises specifically PERL produced"
+msgstr "Bu shortcode özellikle PERL üretilen yükseltir"
+
+#: ../html/welcome.php:180
+msgid "This short code raises specifically WP produced"
+msgstr "Bu shortcode özellikle WP üretilen yükseltir"
+
+#: ../html/welcome.php:196 ../html/welcome.php:203
+msgid "Use Textarea in WP Editor"
+msgstr "WP Editör Textarea kullanın"
+
+#: ../html/welcome.php:197
+msgid "Disable the visual area in WP Editor for the current post"
+msgstr "Geçerli yazı için WP Editor görsel alanı devre dışı"
+
+#: ../html/welcome.php:204
+msgid "Disable the visual range in the WP editor for all posts of this art"
+msgstr "Bu sanatın tüm yayınlar için WP editörü görsel aralık devre dışı"
+
+#~ msgid "Title"
+#~ msgstr "Başlık"
+
+#~ msgid "Select:"
+#~ msgstr "Seçin:"
+
+#~ msgid "Click to Edit and Double Click to copy."
+#~ msgstr "Düzenleme için tıklayın ve kopyalamak için iki kere tıklayın."
+
+#~ msgid "and "
+#~ msgstr "ve"
+
+#~ msgid "Color access"
+#~ msgstr "Renk erişim"
+
+#~ msgid "Turn"
+#~ msgstr "Dönüş"
+
+#~ msgid ""
+#~ "Design your page additionally with easily slow the MeliBu is at disposal, "
+#~ "a lot of fun!"
+#~ msgstr "Kolayca MeliBu emrinde yavaş ile ayrıca sayfa tasarımı, eğlenceli!"
+
+#~ msgid ""
+#~ "Put here new RegEx and format the code with a comma separated. /regexp/, /"
+#~ "regexp2/"
+#~ msgstr ""
+#~ "Burada yeni RegEx koyun ve bir virgülle ayrılmış olan kodunu "
+#~ "biçimlendirmek. / Regexp / / regexp 2 /"
+
+#~ msgid "Multi Highlighting"
+#~ msgstr "Çok Renklendirme"
+
+#~ msgid "Codeing in WP Text Field with short codes"
+#~ msgstr "Kısa kodları ile WP Metin Alanında Kodlama"
+
+#~ msgid "Optional Disable Visuall WP Editor"
+#~ msgstr "İsteğe bağlı devre dışı bırakma Görsel WP_Editor"
+
+#~ msgid "Fully modifiable CSS for code"
+#~ msgstr "Kodu tamamen değiştirilebilir CSS"
+
+#~ msgid "Toolbar"
+#~ msgstr "Araç Çubuğu"
+
+#~ msgid "Linenumbers"
+#~ msgstr "Satır Numaraları"
+
+#~ msgid "Syntax Options"
+#~ msgstr "Sözdizimi Seçenekleri"
+
+#~ msgid "This CSS is now active"
+#~ msgstr "Bu CSS etkin değil"
+
+#~ msgid "You can activate the toolbar for SyntaxHighlighter on / off"
+#~ msgstr ""
+#~ "Sen açık / kapalı SyntaxHighlighter için araç çubuğunu aktif hale "
+#~ "getirebilirsiniz"
+
+#~ msgid "Saved settings!"
+#~ msgstr "Kaydedilen ayarlar!"
+
+#~ msgid "More "
+#~ msgstr "Daha"
+
+#~ msgid "+ Premium"
+#~ msgstr "+ Premium"
+
+#~ msgid "Preview"
+#~ msgstr "Önizleme"
+
+#~ msgid "Here you have a preview non active, you can click it."
+#~ msgstr "Burada bir önizleme devre dışı kalır, bunu tıklayabilirsiniz."
+
+#~ msgid ""
+#~ "You can make a selection with one click, the new design is stored and "
+#~ "displayed immediately here between several MeliBu layouts."
+#~ msgstr ""
+#~ "Tek bir tıklama ile bir seçim yapabilirsiniz, yeni tasarım saklanır ve "
+#~ "birkaç Melibu düzenleri arasında hemen burada görüntülenir."
+
+#~ msgid ""
+#~ "That is the short code. You can copy a short code and place on a page, "
+#~ "post or in a widget. Or use the short code has been integrated into your "
+#~ "editor, a click is enough and the part buttons after save visible."
+#~ msgstr ""
+#~ "Bu kısa bir koddur. Kısa bir kodu kopyalayın ve bir sayfa, yazı veya bir "
+#~ "widget yerleştirebilirsiniz. Ya da kısa kod editörü entegre edilmiştir "
+#~ "kullanmak, bir tık yeterli ve parça düğmeleri sonra görünür kaydedin."
+
+#~ msgid "Please take the short code double click to copy"
+#~ msgstr "Kopyalamak için kısayol çift tıklayarak alınız"
+
+#~ msgid "Share"
+#~ msgstr "Paylaş"
+
+#~ msgid "Share on Google+"
+#~ msgstr "Google + 'da paylaş"
+
+#~ msgid "Share on Facebook"
+#~ msgstr "Facebook'ta Paylaş"
+
+#~ msgid "Share on Twitter"
+#~ msgstr "Twitter'da paylaş"
+
+#~ msgid "Share on Xing"
+#~ msgstr "Xing üzerinde Paylaş"
+
+#~ msgid "Share on LinkedIn"
+#~ msgstr "LinkedIn'de paylaş"
+
+#~ msgid "Pin on Pinterest"
+#~ msgstr "Pinterest Pin"
+
+#~ msgid "Share on tumblr"
+#~ msgstr "tumblr üzerinde Paylaş"
+
+#~ msgid "Share with Mail"
+#~ msgstr "Mail ile paylaş"
+
+#~ msgid "Share on WhatsApp"
+#~ msgstr "WhatsApp üzerinde Paylaş"
+
+#~ msgid "Click for more Privacy"
+#~ msgstr "Daha fazla Gizlilik için tıklayın"
+
+#~ msgid "Very recommendable item: "
+#~ msgstr "Çok tavsiye edileçek:"
+
+#~ msgid "A MeliBu WordPress Widget by Professionals Developers."
+#~ msgstr "Uzmanları Geliştiriciler tarafından bir MeliBu WordPress Widget."
+
+#~ msgid "Select"
+#~ msgstr "Seçin"
+
+#~ msgid "Click to Edit and Double Click to copy"
+#~ msgstr "Düzenleme için tıklayın ve çift kopyalamak için"
+
+#~ msgid "Text & Short Code"
+#~ msgstr "Metin ve Kısa kod"
+
+#~ msgid "Requires no 2 click buttons"
+#~ msgstr "2 tıklama gerekziz"
+
+#~ msgid "Eliminates \"unauthorized\" data transfer to Social Networks"
+#~ msgstr "Sosyal Ağlar için \"izinsiz\" veri aktarımı ortadan kaldırır"
+
+#~ msgid "No special scripts or external applications are loaded"
+#~ msgstr "Hiçbir özel komut dosyaları veya harici uygulamalar yüklenmiyor"
+
+#~ msgid "Less loading time, does your page faster"
+#~ msgstr "Az yükleme süresi, daha hızlı sayfa"
+
+#~ msgid "Automatically detects the title and describe"
+#~ msgstr "Otomatik olarak başlık ve açıklama algılar"
+
+#~ msgid "Secure sharing of their customer"
+#~ msgstr "Müşteri güvenli paylaşımı"
+
+#~ msgid "Automatically detect for Pinterest"
+#~ msgstr "Otomatik Pinterest için tespit"
+
+#~ msgid "Automatically detect for WhatsApp"
+#~ msgstr "Otomatik WhatsApp için tespit"
+
+#~ msgid "A lot of selection on social networks"
+#~ msgstr "Sosyal ağlar üzerinde seçim bir sürü"
+
+#~ msgid "Sharing buttons with simple links"
+#~ msgstr "Basit bağlantılar ile düğmeleri paylaşımı"
+
+#~ msgid "Choose your layout (One-Click)"
+#~ msgstr "Düzeninizi seçin (Bir-klik)"
+
+#~ msgid ""
+#~ "Shortcode to share on the simplest way all (with shortcode in WP Rich "
+#~ "Text Editor)"
+#~ msgstr ""
+#~ "Kısa kod (WP Zengin Metin Düzenleyicisi'nde SHORTCODE ile) en basit "
+#~ "şekilde tüm paylaşmak için"
+
+#~ msgid "You decide which buttons really are visible"
+#~ msgstr "Hangi düğmeleri gerçekten görünür, Siz karar verin"
+
+#~ msgid "Inform the customer about your privacy policy"
+#~ msgstr "Gizlilik politikası hakkında müşteriyi bilgilendirmek"
+
+#~ msgid "On optional parameters that are available to him"
+#~ msgstr "Isteğe bağlı parametreleri mevcuttur"
+
+#~ msgid "Extra"
+#~ msgstr "Ekstra"
+
+#~ msgid "Share away on the EMail"
+#~ msgstr "EMail uzak paylaş"
+
+#~ msgid "Show/Hide additional FontAwesome CSS"
+#~ msgstr "Göster / Gizle ek Yazı FontAwesome CSS"
+
+#~ msgid "More information about"
+#~ msgstr "Hakkında daha fazla bilgi"
+
+#~ msgid "Social"
+#~ msgstr "Sosyal"
+
+#~ msgid "Privacy"
+#~ msgstr "Gizlilik"
+
+#~ msgid "Optional"
+#~ msgstr "İsteğe bağlı"
+
+#~ msgid "Extra Settings"
+#~ msgstr "Ekstra Ayarlar"
+
+#~ msgid "Go watch in the mobile view to the mobile icons also."
+#~ msgstr "Ayrıca mobil simgeler için mobil görünümüne geçin."
+
+#~ msgid ""
+#~ "Pinterest is displayed if you have included an image in your page, Melibu "
+#~ "automatically switches to link to when an image has been found, (This "
+#~ "applies to side photos Post photos) once you have added options in the "
+#~ "short code."
+#~ msgstr ""
+#~ "Pinterest kısa kod seçenekleri ekledikten sonra (Bu Resim gönder "
+#~ "fotoğrafları yan geçerlidir), sayfanızda bir resim dahil varsa, Melibu "
+#~ "otomatik bir görüntü bulunduğunda link geçer görüntülenir."
+
+#~ msgid "Short code"
+#~ msgstr "Kisa kod"
+
+#~ msgid ""
+#~ "That is the short code. You can use a short code on a page, a post or "
+#~ "place them in a widget. Or you can use the short code that is integrated "
+#~ "into your editor, just click and the short code is placed. You can copy "
+#~ "the short code editing and double click with."
+#~ msgstr ""
+#~ "Bu kısa bir koddur. Bir sayfa, bir yazı üzerine kısa bir kod kullanın "
+#~ "veya bir widget yerleştirebilirsiniz. Ya da editör entegre edilir kısa "
+#~ "kodu kullanabilirsiniz, sadece tıklayın ve kısa kod yerleştirilir. Sen "
+#~ "kısa kod düzenleme ve çift tıklama kopyalayabilirsiniz."
+
+#~ msgid "Please take the short code to copy"
+#~ msgstr "Kopyalamak için kısa bir kod alınız"
+
+#~ msgid "MB One Button"
+#~ msgstr "MB Tek Düğme"
+
+#~ msgid "MB Glow"
+#~ msgstr "MB Parıltı"
+
+#~ msgid "MB Glow Dark"
+#~ msgstr "MB Parıltı Kara"
+
+#~ msgid "MB Special Overlap"
+#~ msgstr "MB Özel Üst Üste"
+
+#~ msgid "MB Shining Dark Short"
+#~ msgstr "MB Parlıyor Koyu Kısa"
+
+#~ msgid "MB Glow Semicircle"
+#~ msgstr "MB Parıltı Yarım Daire"
+
+#~ msgid "MB Glow Circle"
+#~ msgstr "MB Parıltı Daire"
+
+#~ msgid "MB Flat"
+#~ msgstr "MB Düz"
+
+#~ msgid "MB Flat Smooth"
+#~ msgstr "MB Düz Pürüzsüz"
+
+#~ msgid "MB Flat Smooth Dark"
+#~ msgstr "MB Düz Pürüzsüz Kara"
+
+#~ msgid "MB Flat Semicircle"
+#~ msgstr "MB Düz Yarım Daire"
+
+#~ msgid "MB Flat Semicircle Smooth"
+#~ msgstr "MB Düz Yarım Daire Pürüzsüz"
+
+#~ msgid "MB Flat Circle Smooth"
+#~ msgstr "MB Düz Daire Pürüzsüz"
+
+#~ msgid "MB Flat Long (Default)"
+#~ msgstr "MB Düz Uzun (Varsayılan)"
+
+#~ msgid "MB Flat Long Rotate Icon"
+#~ msgstr "MB Düz Uzun Dönden Simge"
+
+#~ msgid "MB Long Rounded"
+#~ msgstr "MB Uzun Yuvarlak"
+
+#~ msgid "MB Shining Dark"
+#~ msgstr "MB Koyu Parlıyor"
+
+#~ msgid "MB Shining Dark Line"
+#~ msgstr "MB Koyu Parlıyor Çizgi"
+
+#~ msgid "MB Flat Full Width"
+#~ msgstr "MB Düz Tam Genişlik"
+
+#~ msgid "Your quote the Post"
+#~ msgstr "Sizin Gönder Mesaj"
+
+#~ msgid "A quote to be shared along with the link"
+#~ msgstr "Bir alıntı link ile birlikte ortak olmak"
+
+#~ msgid "Want you more information"
+#~ msgstr "Daha fazla bilgi istiyorumusunuz"
+
+#~ msgid "Your Information to the Users"
+#~ msgstr "Kullanıcılar için Bilgiler"
+
+#~ msgid "Your Message"
+#~ msgstr "Mesajın"
+
+#~ msgid ""
+#~ "Here appears after save your information to your users. (See preview)"
+#~ msgstr ""
+#~ "Burada sonra kullanıcılara bilgileri kaydetmek görünür. (Önizleme bakınız)"
+
+#~ msgid ""
+#~ "This information is shown with a small round question mark next to your "
+#~ "part buttons, so you can inform each user immediately about the part of "
+#~ "the left."
+#~ msgstr ""
+#~ "Sol parçası hakkında derhal her kullanıcıyı bilgilendirmek, böylece bu "
+#~ "bilgiler, yanındaki parça düğmelerinin küçük yuvarlak soru işareti "
+#~ "gösterilir."
+
+#~ msgid "Text"
+#~ msgstr "Metin"
+
+#~ msgid "Link"
+#~ msgstr "Bağlantı"
+
+#~ msgid "Information about the used part Buttons and Optional Parameters"
+#~ msgstr ""
+#~ "Kullanılan kısmı Düğmeler ve İsteğe Bağlı Parametreler hakkında bilgi"
+
+#~ msgid "Plattform"
+#~ msgstr "Plattform"
+
+#~ msgid "Used Parameters"
+#~ msgstr "Kullanılan Parametreler"
+
+#~ msgid "Your Twitter via @username"
+#~ msgstr "@ kullancıadı aracılığıyla Twitter"
+
+#~ msgid "Your username will be hung on the Share Button"
+#~ msgstr "Kullanıcı adınız Hisse Düğmesi asılacaktır"
+
+#~ msgid "Your Xing follow Page"
+#~ msgstr "Sizin Xing takip Sayfa"
+
+#~ msgid ""
+#~ "You can place a Follow plugin on the success page displayed after a "
+#~ "successful share"
+#~ msgstr ""
+#~ "Başarılı bir pay sonra görüntülenen başarı sayfasında Takip eklentisi "
+#~ "yerleştirebilirsiniz"
+
+#~ msgid "Username"
+#~ msgstr "Kullanıcı adı"
+
+#~ msgid ""
+#~ "Not Want that one of the social networks is displayed, then remove it "
+#~ "from the short code."
+#~ msgstr ""
+#~ "Eeğer sosyal ağlardan biri görüntülenmediğini isterseni, kısa koddan "
+#~ "çıkarın."
+
+#~ msgid "In this example googleplus was removed so it is not displayed."
+#~ msgstr "Bu örnekte google artı görüntülenmez çünkü çıkarıldı."
+
+#~ msgid "Here you can show/hide FontAwesome CSS"
+#~ msgstr "Burada FontAwesome CSS gizleyebilirsiniz"
+
+#~ msgid "Shortcode"
+#~ msgstr "Kısa kod"
+
+#~ msgid "Turn Off"
+#~ msgstr "Kapat"
+
+#~ msgid "MeliBu Plugin -> Sharing Social Safe"
+#~ msgstr "Sosyal Güvenli Paylaşım"
+
+#~ msgid "Melibu Plugin"
+#~ msgstr "Melibu Eklentisi"
+
+#~ msgid "Welcome to Melibu"
+#~ msgstr "Melibuya Hoşgeldiniz"
+
+#~ msgid "Important Links"
+#~ msgstr "Önemli Linkler"
+
+#~ msgid "In like please give MeliBu WP Sharing Social Safe"
+#~ msgstr "Beyendiyseniz MeliBu WP Paylaşımı Sosyal Güvenli’ye destek verin"
+
+#~ msgid "Less loading time"
+#~ msgstr "Az yükleme süresi"
+
+#~ msgid "Make your page more quickly"
+#~ msgstr "Sayfanizi daha hizli yapin"
+
+#~ msgid "Development is fueled by your praise and feedback."
+#~ msgstr "Kalkınma için övgü ve geribildirim ile körüklenmektedir."
+
+#~ msgid "MB Special Shining Dark"
+#~ msgstr "MB Özel Parlıyor Koyu"
+
+#~ msgid "MB Flat Circle"
+#~ msgstr "MB Düz Daire"
+
+#~ msgid "MB Default Flat Long"
+#~ msgstr "MB Düz uzun (Varsayılan)"
+
+#~ msgid "Very recommendable items: "
+#~ msgstr "Çok tavsiye öğeler:"
+
+#~ msgid "MeliBu Plugin -> Sahring Social Safe"
+#~ msgstr "MeliBu Plugin ->Sosyal Güvenli Paylaşım"
+
+#~ msgid ""
+#~ "The instance is when individual always different and duplicate the same, "
+#~ "that is must if they offer a file with the same URL to download the "
+#~ "instance be the same."
+#~ msgstr ""
+#~ "Die Instanz steuert einzelne und Duplikate d.h. jeder download den Sie "
+#~ "einzeln anbieten muss eine andere Instanz besitzen, ausser Sie möchten "
+#~ "auf einer Seite mehrere gleiche downloads verwenden, dann muss die "
+#~ "Instanz und die download URL gleich sein."
+
+#~ msgid ""
+#~ "When issues, problems, or even encouraging and have criticism contact ish "
+#~ "to the Support."
+#~ msgstr ""
+#~ "Wenn Sie fragen, Probleme oder auch Anregung, Kritik haben wenden Sie "
+#~ "sich bitte an den Support."
+
+#~ msgid "file url"
+#~ msgstr "Datei url"
+
+#~ msgid "file name"
+#~ msgstr "Datei name"
+
+#~ msgid "file type"
+#~ msgstr "Datei typ"
+
+#~ msgid "file size"
+#~ msgstr "Datei größe"
+
+#~ msgid "file last access"
+#~ msgstr "Letzter Datei zugriff"
+
+#~ msgid "<strong>Label Backgroundcolor</strong>"
+#~ msgstr "<strong>Label Hintergrungfarbe</strong>"
+
+#~ msgid ""
+#~ "<small>You can delete the actually image, save without select a image.</"
+#~ "small>"
+#~ msgstr ""
+#~ "<small>Sie können das aktuelle Bild löschen, in dem Sie einfach ohne ein "
+#~ "Bild auszuwählen Speichern..</small>"
+
+#~ msgid "<strong>Choose your Layout</strong>"
+#~ msgstr "<strong>Wählen Sie Ihr Layout</strong>"
+
+#~ msgid "<strong>Choose with or without info label</strong>"
+#~ msgstr "<strong>Wählen Sie ob mit oder ohne label</strong>"
+
+#~ msgid "MeliBu Plugin -> Download Counter Button"
+#~ msgstr "MeliBu Plugin -> Donwload Counter Button"
+
+#~ msgid "<strong>Button Backgroundcolor</strong>"
+#~ msgstr "<strong>Schaltfläche hintergrundfarbe</strong>"
+
+#~ msgid "<strong>Icon Backgroundcolor</strong>"
+#~ msgstr "<strong>Symbol hintergrundfarbe</strong>"
+
+#~ msgctxt "melibuPlugin_download"
+#~ msgid "First"
+#~ msgstr "Erste"
+
+#~ msgctxt "melibuPlugin_download"
+#~ msgid "Back"
+#~ msgstr "Zurück"
+
+#~ msgctxt "melibuPlugin_download"
+#~ msgid "Go"
+#~ msgstr "Vor"
+
+#~ msgctxt "melibuPlugin_download"
+#~ msgid "Last"
+#~ msgstr "Letzte"
+
+#~ msgid "Colors & Image"
+#~ msgstr "Farben & Bild"
+
+#~ msgid "Here you can set the colors and a download image."
+#~ msgstr "Hier können Sie die Farben und ein Bild festlegen."
+
+#~ msgid "Here you have to set the option, the possibility."
+#~ msgstr "Hier können Sie die Sichtbarkeit des Labels und Farbe einstellen."
+
+#~ msgid "Theme"
+#~ msgstr "Theme"
+
+#~ msgid "Plugin"
+#~ msgstr "Plugin"
+
+#~ msgid "Author:"
+#~ msgstr "Autor"
+
+#~ msgid "Marketing:"
+#~ msgstr "Marketing"
+
+#~ msgid "Developer:"
+#~ msgstr "Entwickler"
+
+#~ msgid "MeliBu WP Download Counter Button"
+#~ msgstr "MeliBu WP Downloads zähler"
+
+#~ msgid ""
+#~ "This Plugin help Developer or other to set a Download button for a file "
+#~ "with Counter and informations."
+#~ msgstr ""
+#~ "Dieses Plugin wurde entwickelt um entwicklern als auch anderen Benutzern "
+#~ "behilflich zu sein."

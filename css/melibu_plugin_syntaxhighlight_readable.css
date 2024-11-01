@@ -1,0 +1,235 @@
+
+[class*=mb-linecount-] {
+
+    float: left;
+    width: auto;
+    min-width: 70px;
+    border-right: 1px solid lawngreen;
+    text-align: right;
+}
+
+[class*=mb-linecode-] {
+
+    width:auto;
+}
+
+.noselect {
+
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+
+.st_highlighter_style {
+
+    background-color: rgb(34, 34, 34);
+}
+
+.st_highlighter pre {
+
+    display: block;
+    margin: 0;
+    padding: 2em .3em;
+
+    background-color: transparent;
+
+    color: #E3CEAB;
+    font-family: 'Consolas', 'Andale Mono', 'Monotype.com', 'Lucida Console', 'Monospace', Serif;
+    font-size: .9rem;
+    white-space: pre;
+    word-wrap: normal;
+}
+
+.st_highlighter code {
+
+
+}
+
+.st_highlighter_ruler > .st_ruler {
+
+    background: lightYellow;
+    border: 1px solid #ccc;
+    color: #ccc;
+}
+
+.st_highlighter_ruler > .st_ruler > li {
+
+    text-shadow: 1px 1px hsl(60, 60%, 84%);
+    font-size: 9px;
+    color: #333;
+}
+
+.htmlcodetitle, .csscodetitle, .lesscodetitle, .sasscodetitle, .jscodetitle, .phpcodetitle, .mysqlcodetitle, .javacodetitle, .rubycodetitle, .perlcodetitle, .wpcodetitle, .outputcodetitle {
+    
+    color: #ECEDEF;
+}
+
+.htmlcodetitle {
+
+    border-top: 2px solid #E54D26;
+    border-bottom: 2px solid #E54D26;
+    background: #F16529;
+}
+
+.csscodetitle {
+
+    border-top: 2px solid #0171BB;
+    border-bottom: 2px solid #0171BB;
+    background: #28A9E0;
+}
+
+.lesscodetitle {
+
+    border-top: 2px solid #333333;
+    border-bottom: 2px solid #333333;
+    background: #1D365D;
+}
+
+.sasscodetitle {
+
+    border-top: 2px solid #333333;
+    border-bottom: 2px solid #333333;
+    background: #CF649A;
+}
+
+.jscodetitle {
+
+    border-top: 2px solid #E5A329;
+    border-bottom: 2px solid #E5A329;
+    background: #EFBD24;
+}
+
+.phpcodetitle {
+
+    border-top: 2px solid #4D588F;
+    border-bottom: 2px solid #4D588F;
+    background: #8892BF;
+}
+
+.mysqlcodetitle {
+
+    border-top: 2px solid #FFA518;
+    border-bottom: 2px solid #FFA518;
+    background: #5382A1;
+}
+
+.javacodetitle {
+
+    border-top: 2px solid #4E7896;
+    border-bottom: 2px solid #4E7896;
+    background: #F58219;
+}
+
+.rubycodetitle {
+
+    border-top: 2px solid #A91401;
+    border-bottom: 2px solid #B31301;
+    background: #CF2B18;
+}
+
+.perlcodetitle {
+
+    border-top: 2px solid #5D5E83;
+    border-bottom: 2px solid #5D5E83;
+    background: #41436D;
+}
+
+.wpcodetitle {
+
+    border-top: 2px solid #333333;
+    border-bottom: 2px solid #333333;
+    background: #0073AA;
+}
+
+.outputcodetitle {
+
+    border-top: 2px solid #000000;
+    border-bottom: 2px solid #000000;
+    background: #333333;
+}
+
+.htmlcode, .csscode, .lesscode, .sasscode, .jscode, .phpcode, .mysqlcode, .javacode, .rubycode, .perlcode, .wpcode {
+
+    background-color: #222;
+}
+
+/* COMMENTS */
+.pre .st_comment {color:rgba(150,150,150,.7);} /* Orange */
+
+/* HTML */
+.pre .st_html_tags {color:#F16529;} /* LightBlue */
+.pre .st_html_style {color:#9932CC;} /* DarkOrchid */
+.pre .st_html_link {color:#00BFFF;} /* DeepSkyBlue */
+.pre .st_html_meta {color:#1E90FF;} /* DodgerBlue */
+.pre .st_html_script {color:#FF1493;} /* DeepPink */
+
+/* CSS */
+.pre .st_css_id {color:#268BD2;}
+.pre .st_css_class {color:lightsalmon;} /* LightSalmon  */
+.pre .st_css_color {color:#DCDCDC;} /* Gainsboro  */
+.pre .st_css_webkit {font-style: italic; color:#DCDCDC;} /* Gainsboro */
+.pre .st_css_media {font-style: italic; color:#DCDCDC;} /* Gainsboro */
+
+/* LESS */
+.pre .st_less {color:#F9F2F4;}
+.pre .st_less_mix {color:#F9F2F4;}
+.pre .st_less_math {color:#657B83;}
+.pre .st_less_misc {color:#657444;}
+.pre .st_less_string {color:#875444;}
+.pre .st_less_type {color:#875324;}
+.pre .st_less_color_channel {color:#952653;}
+.pre .st_less_when {color:#223344;}
+
+/* ATTRIBUTE */
+.pre st_attributes {color:#00CED1;} /* DarkTurquoise */
+
+/* NUMBERS */
+.pre .st_numbers {color:#f2f2f2;}
+
+/* STRINGS */
+.pre .st_strings {color:#87CEEB;} /* SkyBlue */
+
+/* BOOLEAN */
+.pre .st_script_booltrues {color:#00ff00;}
+.pre .st_script_boolfalses {color:#ff0000;}
+
+/* KEYWORDS PHP - JS - Perl */
+.pre .st_script_keys {color:#2AA1AE;} /*  */
+.pre .st_script_back {color:MediumSpringGreen;} /* MediumSpringGreen */
+
+/* Keywords PHP */
+.pre .st_php_keys {color:#8892BF;} /* Olive */
+
+/* Keywords JS */
+.pre .st_js_keys {color:#87CEFA;} /* LightSkyBlue  */
+.pre .st_js_vars {color:#999;} /* Grey  */
+
+/* Variablen */
+.pre .st_variables {color:#00cccc;} /* RoyalBlue */
+
+/* Defines / Uppercases */
+.pre .st_uppercases {color:#FFFFFF;} /* White */
+
+/* Quotes */
+.pre .st_quotes {color:#8FBC8F;} /* DarkSeaGreen */
+
+/* @import | @namespace */
+.pre .st_vars {color:cyan;}
+
+/* PHP Tags */
+.pre .st_php_tags {color:#8892BF;}
+
+.pre .st_positive {color:#0f0;}
+.pre .st_negative {color:#f00;}
+
+.pre .st_wp_funct {color:#0073AA;}
+
+@media only screen and(min-width:768px) {
+
+    .pre {
+
+        padding: 5em .5em;
+        font-size: 1rem;
+    }
+}
